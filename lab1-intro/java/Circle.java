@@ -11,7 +11,7 @@ class Circle {
   public Circle(int size) {
     this.size = size;
   }
-
+// edit made by Arman Shiraz 240156222.
   private int size;
 
   private String circleLine(int i){
