@@ -28,4 +28,4 @@ r12 = print [1..3]
 main :: IO ()
 main = pure ()
 
-runhaskell intro1.hs
+
